@@ -2,9 +2,7 @@
 
 Reviewing the [Weather App](https://github.com/S-Vasanth/weather) by Vasanth (https://github.com/S-Vasanth)
 
-## Review Comments
-
-### 1 - Usage of Nodemon
+## Improvements
 
 ### 1- Readme File
 
@@ -12,4 +10,4 @@ When we publish a repository to a public repository make sure it has a README fi
 
 - What this project/app/sample is all about?
 - How to run the application locally?
-- 
+- Other related information.
